@@ -32,7 +32,7 @@ const CV = (
         <br />
         Aug 2024 – Oct 2024 (3 months) | Riyadh, Saudi Arabia | On-site
       </p>
-      <ul>
+      <ul className="main-ul">
         <li>
           Developed a mobile application using Flutter, enhancing performance
           and refining key components for improved functionality.
@@ -54,7 +54,7 @@ const CV = (
 
     <div className="cv-section">
       <h3>CERTIFICATIONS</h3>
-      <ul>
+      <ul className="main-ul">
         <li>
           <strong>Professional Epic React Workshops</strong> – Kent C. Dodds
           (March 2025)
